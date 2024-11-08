@@ -5,7 +5,7 @@ Essentially a simple interface for persistent storage in love2d context
 
 ## Getting started
 
-The library needs json.lua to function so it's distributed with (pluto)[https://github.com/qeffects/pluto-cli]  
+The library needs json.lua to function so it's distributed with [pluto](https://github.com/qeffects/pluto-cli)  
 If your project already uses pluto we can proceed, otherwise follow the instructions linked above  
   
 Add this package to your project:  
