@@ -1,0 +1,25 @@
+{
+    "name": "localStorage",
+    "author": {
+        "name": "qfx",
+        "github": "https://github.com/qeffects",
+        "email": ""
+    },
+    "license": "MIT",
+    "version": "1.0.0",
+    "description": "Implementation of localStorage for love2d",
+    "icon": "default",
+    "runtime": "*",
+    "frameworks": [
+        "love11",
+        "love12"
+    ],
+    "dependencies": {
+        "json-lua": {
+            "latest": true
+        }
+    },
+    "documentation": "",
+    "website": "",
+    "github": ""
+}
