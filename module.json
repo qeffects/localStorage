@@ -6,7 +6,7 @@
         "email": ""
     },
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Implementation of localStorage for love2d",
     "icon": "default",
     "runtime": "*",
@@ -19,7 +19,7 @@
             "latest": true
         }
     },
-    "documentation": "",
+    "documentation": "https://github.com/qeffects/localStorage/blob/main/README.md",
     "website": "",
-    "github": ""
+    "github": "https://github.com/qeffects/localStorage"
 }
